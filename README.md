@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joseecodm
 - 👀 I’m interested in new challenges
 - 🌱 I usually read tech news
-- I like to schedule and stress...
+- I like to program and stress
 - Add me on COD Mobile 👍
 
 <!---
