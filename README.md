@@ -1,7 +1,9 @@
-- Hi, I’m **José Manuel Cortes Cerón**
-- I like to program and stress
-- Add me on COD Mobile "jose.codm"👍
-<!---
-Joseecodm/Joseecodm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/joseecodm/joseecodm/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
