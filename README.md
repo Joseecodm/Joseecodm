@@ -1,4 +1,7 @@
-<p align="center">Hello world, I'm Jose.<br>I'm from Hidalgo, Mex.</p>
+
+
+IT student at **ITSOEH**. 🚀  
+Exploring ideas, solving problems, and learning every day.  
 
 
 <div align="center">
